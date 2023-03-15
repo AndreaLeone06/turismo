@@ -28,3 +28,11 @@
 .imagebox p {
     color: black;
 }
+p{
+    font-family:"Geneva";
+}
+
+h1{
+    font-size: 90px;
+    font-family:"Geneva";
+}
